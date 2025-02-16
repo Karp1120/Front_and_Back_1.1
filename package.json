@@ -1,0 +1,12 @@
+{
+  "name": "Front_and_Back_1.1",
+  "version": "0.0.0",
+  "description": "Project for Test in Class",
+  "main": "index.js",
+  "repository": "https://github.com/Karp1120/Front_and_Back_1.1.git",
+  "author": "antonov_sasha <<antonov@email.com>>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^19.0.0"
+  }
+}
